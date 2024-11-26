@@ -12,4 +12,4 @@ Option 2
 
 - Small, Medium and Big: 30000
 
-They are fairly easy to kill but not like paper. Damage, regeneration, etc. are unchanged
+They are fairly easy to kill but not like paper. If you don't like the challenge there is a setting (default off) to reduce the Regeneration to that of the Small Demolisher.
