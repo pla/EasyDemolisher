@@ -1,6 +1,6 @@
 # Easy Demolisher
 
-Reduces the health of the Demolisher enemy on Vulcanos
+Reduces the health of the Demolisher enemy on Vulcanos. Change health options in startup settings.
 
 Option 1
 
